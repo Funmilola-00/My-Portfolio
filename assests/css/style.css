@@ -148,7 +148,7 @@ body[data-theme="dark"] {
     border-radius: 1rem;
     width: 8.5rem;
     padding-top: 29px;
-    margin-bottom: 15px;
+    margin-bottom: 40px;
     height: 100%;
     background-color: #421414;
     box-shadow: 0 4px 10px #e57070ea;
@@ -202,7 +202,7 @@ body[data-theme="dark"] {
   border-radius: 1rem;
   width: 8.5rem;
   padding-top: 29px;
-  margin-bottom: 15px;
+  margin-bottom: 40px;
   height: 100%;
   background-color: var(--bg-color-2);
   box-shadow: 0 4px 10px #ea4545ea;
@@ -271,7 +271,7 @@ section {
 }
 
 .body-layout {
-  max-width: 1300px;
+  max-width: 1200px;
   display: grid;
   grid-template-columns: 100%;
   grid-column-gap: 2rem;
