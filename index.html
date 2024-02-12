@@ -14,8 +14,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   </head>
 
-  <body >
-    <header class="main-header" id="header" >
+  <body onload="myFunction()">
+    <div id="loader"></div>
+    <div style="display:none;" id="myDiv" class="animate-bottom">    
+      <header class="main-header" id="header" >
       <nav
         class="nav body-layout"
         id="about"
@@ -46,7 +48,7 @@
         </div>
       </nav>
     </header>
-    <main class="body-main" >
+    <main class="body-main" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5" >
       <div class="good">
         <div class="mode-cover">
           <div class="toggle-container">
@@ -373,10 +375,12 @@
         Oyeyipo
       </p>
       <button onclick="topFunction()" id="myBtn">Click to go up</button>
-    </footer>
+    </footer></div>
+
 
     <script src="https://unpkg.com/scrollreveal"></script>
     <script src="./assests/js/main.js"></script>
     <script src="./assests/js/myBtn.js"></script>
+  
   </body>
 </html>
