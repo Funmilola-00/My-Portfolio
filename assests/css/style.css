@@ -115,7 +115,7 @@ body[data-theme="dark"] {
     left: 0;
     z-index: var(--z-fixed);
     background-color: #421414;
-    box-shadow: 0 4px 10px #8f2e2eea;
+    box-shadow: 0 4px 10px #ff8585ea;
   }
 
   .nav_logo {
@@ -205,7 +205,7 @@ body[data-theme="dark"] {
   margin-bottom: 15px;
   height: 100%;
   background-color: var(--bg-color-2);
-  box-shadow: 0 4px 15px #431212ea;
+  box-shadow: 0 4px 10px #ea4545ea;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -288,7 +288,7 @@ section {
   left: 0;
   z-index: var(--z-fixed);
   background-color: #e58f8f;
-  box-shadow: 0 4px 20px #7b1a1aea;
+  box-shadow: 0 4px 10px #ea4545ea;
 }
 
 .nav {
