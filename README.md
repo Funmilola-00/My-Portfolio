@@ -1,6 +1,4 @@
-## Oyeyipo Funmilola WEBSITE
-
-## Live version Here https://oyeyipo45.netlify.app/
+## Funmilola Josephine Oyeyipo - WEBSITE
 
 This is an introduction to Funmilola Oyeyipo's profile, an aspiring Software Engineer in Lagos, Nigeria.
 

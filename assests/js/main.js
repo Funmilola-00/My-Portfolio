@@ -35,6 +35,7 @@ scrl.reveal(".button", { delay: 200 });
 scrl.reveal(".home__img", { delay: 400 });
 scrl.reveal(".developerImage", { delay: 400 });
 scrl.reveal(".home__social-icon", { interval: 200 });
+scrl.reveal(".home__social-icon2", { interval: 200 });
 
 scrl.reveal(".skills__subtitle", {});
 scrl.reveal(".skills__text", { delay: 200 });
