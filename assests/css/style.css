@@ -202,7 +202,7 @@ body[data-theme="dark"] {
   border-radius: 1rem;
   width: 8.5rem;
   padding-top: 29px;
-  margin-bottom: 40px;
+  margin-bottom: 60px;
   height: 100%;
   background-color: var(--bg-color-2);
   box-shadow: 0 4px 10px #ea4545ea;
@@ -469,21 +469,7 @@ section {
   color: #712f2f;
 }
 
-.button {
-  display: inline-block;
-  font-size: 9px;
-  background-color: #fb7272;
-  color: hsl(0, 0%, 100%);
-  padding: 0.50rem 2.0rem;
-  letter-spacing: 0px;
-  font-weight: var(--font-semi);
-  border-radius: 0.5rem;
-}
 
-.button:hover {
-  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
-  background-color: #672323;
-}
 
 
 .skills__container {
@@ -1029,5 +1015,25 @@ main .toggle-container input:checked + label .toggle-ball {
 
 #myBtn:hover {
   background-color: #602020;
+}
+
+
+.button {
+  display: inline-block;
+  cursor: pointer;
+  font-size: 20px;
+  margin-left: 410px;
+  background-color: #fb7272;
+  color: hsl(0, 0%, 100%);
+  padding: 0.50rem 2.0rem;
+  letter-spacing: 0px;
+  border: solid 3px pink;
+  font-weight: var(--font-semi);
+  border-radius: 0.5rem;
+}
+
+.button:hover {
+  box-shadow: 0 10px 36px rgba(0, 0, 0, 0.15);
+  background-color: #672323;
 }
 
