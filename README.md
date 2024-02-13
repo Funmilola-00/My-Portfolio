@@ -1,6 +1,6 @@
-## Funmilola Josephine Oyeyipo - MY PORTFOLIO
+## Funmilola Josephine Oyeyipo | MY PORTFOLIO - WEBSITE
 
-## Live version Here https://my-portfolio-ruby-rho.vercel.app/
+## Live version Here 
 
 This is an introduction to Funmilola Oyeyipo's profile, an aspiring Software Engineer in Lagos, Nigeria.
 
