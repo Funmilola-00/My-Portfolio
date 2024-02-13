@@ -1,8 +1,12 @@
-## Funmilola Josephine Oyeyipo - WEBSITE
+## Funmilola Josephine Oyeyipo | My Portfolio - WEBSITE
+
+## Live version Here 
 
 This is an introduction to Funmilola Oyeyipo's profile, an aspiring Software Engineer in Lagos, Nigeria.
 
-## These are my skill set
+The website contains about, skills, projects and contact sections of the developer. 
+
+## These are my skills set
 
     1.  Html
     2.  CSS
