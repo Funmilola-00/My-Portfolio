@@ -1,4 +1,4 @@
-## Funmilola Josephine Oyeyipo | MY PORTFOLIO - WEBSITE
+## Funmilola Josephine Oyeyipo | My Portfolio - WEBSITE
 
 ## Live version Here 
 
