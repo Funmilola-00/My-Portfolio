@@ -1,6 +1,6 @@
 ## Funmilola Josephine Oyeyipo | My Portfolio - WEBSITE
 
-## Live version Here https://my-portfolio-aspiring-software-engineering.vercel.app/
+## Live version Here 
 
 This is an introduction to Funmilola Oyeyipo's profile, an aspiring Software Engineer in Lagos, Nigeria.
 
