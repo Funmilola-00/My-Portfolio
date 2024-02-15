@@ -1195,7 +1195,7 @@ input:focus {
   margin-top: 240px;
   left:81%;
   background-color: var(--fourth-color);
-  color: var(--second-color);
+  color: #000000ea;
   padding: 0.50rem 2.0rem;
   letter-spacing: 0px;
   border: solid 3px rgb(221, 138, 152);
