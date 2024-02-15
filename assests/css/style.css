@@ -1337,8 +1337,8 @@ input:focus {
     position: absolute;
     margin-top: 240px;
     left:65%;
-    background-color: #fb7272;
-    color: hsl(0, 0%, 100%);
+    background-color: #fca1a1;
+    color: #000000ea;
     padding: 0.50rem 2.0rem;
     letter-spacing: 0px;
     border: solid 3px pink;
@@ -2034,7 +2034,7 @@ input:focus {
     margin-top: 240px;
     left:55%;
     background-color: #fb7272;
-    color: hsl(0, 0%, 100%);
+    color: #000000ea;
     padding: 0.50rem 2.0rem;
     letter-spacing: 0px;
     border: solid 3px pink;
