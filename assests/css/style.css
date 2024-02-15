@@ -812,7 +812,7 @@ section {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #f99a9a;
+  background-color: var(--fourth-color);
   box-shadow: 0 4px 10px #ea4545ea;
 }
 
@@ -1654,7 +1654,7 @@ input:focus {
   }
 
   .footer {
-    background-color: var(--fourth-color);
+    background-color: #ff9f9f;
     text-align: center;
     margin-top: 80px;
     font-weight: var(--font-semi);
@@ -1791,7 +1791,7 @@ input:focus {
   }
 
   .footer {
-    background-color: var(--fourth-color);
+    background-color: #f79696;
     text-align: center;
     font-weight: var(--font-semi);
     padding: 2rem 0;
