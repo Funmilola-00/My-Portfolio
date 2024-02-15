@@ -106,7 +106,7 @@ body[data-theme="dark"] {
   --third-color: #fb7272;
   --text-color: #fff;
   --fourth-color: #421414;
-  --fifth-color: #4c1010;
+  --fifth-color: #2d1111;
   --second-text-color: #000000;
   --button-text-color: white;
   --shadow-header: 0 0 1px 2px #300a0a;
@@ -118,7 +118,7 @@ body[data-theme="dark"] {
     top: 0;
     left: 0;
     z-index: var(--z-fixed);
-    background-color: #421414;
+    background-color: var(--fourth-color);
     box-shadow: 0 4px 10px #ff8585ea;
   }
 
@@ -137,7 +137,6 @@ body[data-theme="dark"] {
 
   .footer {
     background-color: var(--fourth-color);
-    box-shadow: 0 4px 10px #ea4545ea;
     color: #fde4e4;
     margin-top: 150px ;
     text-align: center;
@@ -1655,7 +1654,7 @@ input:focus {
   }
 
   .footer {
-    background-color: #ff9f9f;
+    background-color: var(--fourth-color);
     text-align: center;
     margin-top: 80px;
     font-weight: var(--font-semi);
@@ -1792,7 +1791,7 @@ input:focus {
   }
 
   .footer {
-    background-color: #f79696;
+    background-color: var(--fourth-color);
     text-align: center;
     font-weight: var(--font-semi);
     padding: 2rem 0;
