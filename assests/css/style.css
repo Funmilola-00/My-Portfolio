@@ -979,6 +979,7 @@ body[data-theme="dark"] {
 }
 
 .home__social {
+  position: relative;
   display: flex;
   margin-top: var(--mb-3);
   height: 3rem;
@@ -994,9 +995,9 @@ body[data-theme="dark"] {
 .home__social-icon2 {
   width: max-content;
   margin-bottom: var(--mb-2);
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   padding-right: 15px;
-  margin-top: 8px;
+  margin-top: 10px;
 }
 
 .home__social-icon2:hover {
@@ -2047,6 +2048,5 @@ input:focus {
   }
 
 }
-
 
 
