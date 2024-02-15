@@ -236,7 +236,7 @@ body[data-theme="dark"] {
 
     .footer {
       background-color: #3a0c0c;
-      color: #fde4e4;
+      color: var(--fifth-color);
       text-align: center;
       margin-top: 80px;
       font-weight: var(--font-semi);
