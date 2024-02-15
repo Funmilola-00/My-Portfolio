@@ -812,7 +812,7 @@ section {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: var(--fourth-color);
+  background-color: var(--fifth-color);
   box-shadow: 0 4px 10px #ea4545ea;
 }
 
@@ -1244,7 +1244,7 @@ input:focus {
 
 
 .footer {
-  background-color: var(--fourth-color);
+  background-color: var(--fifth-color);
   box-shadow: 0 4px 10px #ea4545ea;
   color: #000000ea;
   margin-top: 150px ;
