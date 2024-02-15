@@ -1452,35 +1452,6 @@ input:focus {
   }
 }
 
-/* @media screen and (max-width: 1000px) {
-  .good {
-    display: flex;
-    margin-left: 220px;
-    align-items: center;
-    justify-content: flex-start;
-    padding-right: 2rem;
-  }
-  
-  .mode-cover {
-    border-radius: 0.6rem;
-    width: 8.5rem;
-    padding-top: 3px;
-    margin-bottom: 65px;
-    height: 100%;
-    background-color: var(--bg-color-2);
-    box-shadow: 0 4px 10px #e43636ea;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .dark-mode,
-  .light-mode {
-    color: #591616;
-    font-size: 1rem;
-  }
-
-} */
 
   @media screen and (max-width: 400px) {
     main .toggle-container {
@@ -1560,38 +1531,6 @@ input:focus {
       font-size: 1rem;
     }
 }
-
-  /* .nav__toggle {
-    color: #f8b8b8;
-    font-size: 1.5rem;
-    cursor: pointer;
-  }
-
-  .nav__menu {
-    position: fixed;
-    top: var(--header-height);
-    right: -100%;
-    width: 80%;
-    height: 100%;
-    padding: 1.5rem;
-    background-color: rgba(0, 0, 0, 0.904);
-    transition: 0.5s;
-  }
-
-  .nav__list {
-    display: flex;
-    padding-top: 0;
-  }
-
-  .nav__item {
-    margin-left: var(--mb-4);
-    margin-bottom: 0;
-  }
-
-  .nav__link {
-    color: var(--second-color);
-    font-size: 18px;
-  } */
   
 @media screen and (max-width: 370px) {
   .intro-3 {
@@ -1666,8 +1605,6 @@ input:focus {
     height: 3rem;
   }
 
-  
-  
   .mode-cover {
     border-radius: 0.6rem;
     width: 8.9rem;
@@ -1712,7 +1649,7 @@ input:focus {
 
   .footerText {
     text-align: center;
-    color: var(--text-color);
+    color: #000000ea;
     font-size: 15px;
     margin: 0px 40px;
     line-height: 1.0rem;
