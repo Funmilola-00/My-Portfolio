@@ -1212,7 +1212,7 @@ input:focus {
 .footer {
   background-color: var(--fourth-color);
   box-shadow: 0 4px 10px #ea4545ea;
-  color: var(--second-color);
+  color: #000000ea;
   margin-top: 150px ;
   text-align: center;
   font-weight: var(--font-semi);
