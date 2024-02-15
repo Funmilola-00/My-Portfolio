@@ -120,6 +120,18 @@ body[data-theme="dark"] {
     box-shadow: 0 4px 10px #ff8585ea;
   }
 
+  .footer__icon {
+    font-size: 1.5rem;
+    color: #fde4e4;
+    margin: 0 var(--mb-2);
+  }
+  
+  .footerText {
+    text-align: center;
+    color: #fde4e4;
+    font-size: 15px;
+    line-height: 1.0rem;
+  }
 
   .nav_logo {
     color: #fde4e4;
@@ -190,7 +202,7 @@ body[data-theme="dark"] {
 
     .footer {
       background-color: #3a0c0c;
-      color: white;
+      color: #fde4e4;
       text-align: center;
       margin-top: 80px;
       font-weight: var(--font-semi);
@@ -214,13 +226,13 @@ body[data-theme="dark"] {
     
     .footer__icon {
       font-size: 1.9rem;
-      color: #fff;
+      color: #fde4e4;
       margin: 0;
     }
 
     .footerText {
       text-align: center;
-      color: var(--text-color);
+      color: #fde4e4;
       font-size: 15px;
       margin: 0px 40px;
       line-height: 1.0rem;
@@ -250,32 +262,6 @@ body[data-theme="dark"] {
     
   }
 
-
-  @media screen and (max-width: 400px){
-    .good {
-      display: flex;
-      margin-left: 90px;
-      align-items: center;
-      justify-content: flex-start;
-      padding-right: 2rem;
-    }
-    
-    .mode-cover {
-      border-radius: 0.6rem;
-      width: 6rem;
-      padding-top: 3px;
-      margin-top: 20px;
-      margin-bottom: 70px;
-      height: 100%;
-      background-color: #421414;
-      box-shadow: 0 4px 10px #e57070ea;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    
-
-  }
 
   @media screen and (max-width: 500px) {
     .nav_logo {
@@ -350,7 +336,7 @@ body[data-theme="dark"] {
 
     .footer {
       background-color: #3e1010;
-      color: white;
+      color: #fde4e4;
       text-align: center;
       font-weight: var(--font-semi);
       padding: 2rem 0;
@@ -373,7 +359,7 @@ body[data-theme="dark"] {
     
     .footer__icon {
       font-size: 1.5rem;
-      color: #fff;
+      color: #fde4e4;
       margin: 0;
     }
     
@@ -1245,13 +1231,13 @@ input:focus {
 
 .footer__icon {
   font-size: 1.5rem;
-  color: var(--second-color);
+  color:  #000000ea;
   margin: 0 var(--mb-2);
 }
 
 .footerText {
   text-align: center;
-  color: var(--second-color);
+  color:  #000000ea;
   font-size: 15px;
   line-height: 1.0rem;
 }
