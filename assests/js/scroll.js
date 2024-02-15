@@ -1,5 +1,5 @@
 window.addEventListener('scroll', function() {
-    var scrollPosition = window.pageYOffset || document.documentElement.scrollTop;
+    var scrollPosition = window.scrollY || document.documentElement.scrollTop;
     var scrollToTopButton = document.getElementById('scrollToTop');
 
     if (scrollPosition > 500) {
