@@ -1238,6 +1238,7 @@ input:focus {
 .footerText {
   text-align: center;
   color:  #000000ea;
+  color: #000000ea;
   font-size: 15px;
   line-height: 1.0rem;
 }
