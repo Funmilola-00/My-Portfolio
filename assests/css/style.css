@@ -13,13 +13,14 @@
   --second-color: #431212;
   --third-color: #fb7272;
   --fourth-color: #fa9c9c;
+  --fifth-color: #fab4b4;
   --text-color: #000000;
   --second-text-color: #fff;
   --button-text-color: #0e2431;
   --first-color-ball: #7f2828;
   --shadow-header: 0 1px 4px #7f2828;
   --shadow-footer: 4px 1px 4px #7f2828;
-  --skills-shadow: 0 4px 25px #e38080;
+  --skills-shadow: 0 2px 10px #f63636;
 }
 
 :root {
@@ -105,6 +106,7 @@ body[data-theme="dark"] {
   --third-color: #fb7272;
   --text-color: #fff;
   --fourth-color: #421414;
+  --fifth-color: #4c1010;
   --second-text-color: #000000;
   --button-text-color: white;
   --shadow-header: 0 0 1px 2px #300a0a;
@@ -131,6 +133,17 @@ body[data-theme="dark"] {
     color: #fde4e4;
     font-size: 15px;
     line-height: 1.0rem;
+  }
+
+  .footer {
+    background-color: var(--fourth-color);
+    box-shadow: 0 4px 10px #ea4545ea;
+    color: #fde4e4;
+    margin-top: 150px ;
+    text-align: center;
+    font-weight: var(--font-semi);
+    padding: 6rem 0;
+    box-shadow: var(--shadow-footer);
   }
 
   .nav_logo {
@@ -170,6 +183,27 @@ body[data-theme="dark"] {
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+
+  .button {
+    display: inline-block;
+    cursor: pointer;
+    font-size: 20px;
+    position: absolute;
+    margin-top: 240px;
+    left:81%;
+    background-color: var(--fourth-color);
+    color: #fde4e4;
+    padding: 0.50rem 2.0rem;
+    letter-spacing: 0px;
+    border: solid 3px rgb(221, 138, 152);
+    font-weight: var(--font-semi);
+    border-radius: 0.5rem;
+  }
+  
+  .button:hover {
+    box-shadow: 0 10px 36px rgba(193, 47, 47, 0.15);
+    background-color: #672323;
   }
 
 
@@ -991,6 +1025,7 @@ body[data-theme="dark"] {
   display: flex;
   align-items: center;
   position: relative;
+  background-color: var(--fifth-color);
   width: 100%;
   font-weight: var(--font-semi);
   padding: 0.5rem 1rem;
